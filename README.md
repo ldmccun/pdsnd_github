@@ -18,3 +18,5 @@ python documentation - https://docs.python.org/3/contents.html
 pandas documentation - https://pandas.pydata.org/pandas-docs/stable/
 Calendar from standard library https://docs.python.org/2/library/calendar.html
 
+###Future Work
+I will use the skills developed in this class to rule the world
