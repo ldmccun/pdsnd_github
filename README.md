@@ -13,5 +13,8 @@ In this project, Python is used to explore data related to bike share systems fo
 * Washington - _washington.csv_
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Udacity lessons - www.udacity.com
+python documentation - https://docs.python.org/3/contents.html
+pandas documentation - https://pandas.pydata.org/pandas-docs/stable/
+Calendar from standard library https://docs.python.org/2/library/calendar.html
 
